@@ -1,6 +1,6 @@
-Natematica
+N8matica
 ==============
-Natematica is a fork of litematica created for Minecraft version 1.21.4 as the original dev has decided to focus on porting to older versions of Minecraft.
+N8matica is a fork of litematica created for Minecraft version 1.21.4 as the original dev has decided to focus on porting to older versions of Minecraft.
 It is more or less an updated version of [Litematica](https://modrinth.com/mod/litematica),
 This is a personal fork, use at your own risk.
 
