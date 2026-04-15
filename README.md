@@ -1,3 +1,6 @@
+NOTICE: THIS PROJECT HAS BEEN ABANDONED
+Go use litematica, they know how to code far better than me :)
+
 N8matica
 ==============
 N8matica is a fork of litematica created for Minecraft version 1.21.4 as the original dev has decided to focus on porting to older versions of Minecraft.
